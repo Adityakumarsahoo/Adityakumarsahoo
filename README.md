@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Aditya Kumar Sahoo
 **A passionate Full Stack Developer || MERN Stack || .NET Engineer**
 
-Email Me 👉 ✉️ **toadityakumarsahoo@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **contact@adityakumars.in** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** CareerPilot AI
 - 🌱 **I’m currently learning:** Full Stack .NET
