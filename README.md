@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **toadityakumarsahoo@gmail.com** For Collaboration/Project 
 - 👯 **I’m looking to collaborate on:** CareerPilot AI — an advanced AI-powered Career Acceleration Platform
 - 🤔 **I’m looking for help with:** CareerPilot AI
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** toadityakumarsahoo@gmail.com
+- 📫 **How to reach me:** contact@adityakumars.in
 - 😄 **Pronouns:** Aditya
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **toadityakumarsahoo@gmail.com** For Collaboration/Project 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aks.status.creation) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-sahoo-nit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdiTheNalanda) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Iternal_Fact_Stories) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toadityakumarsahoo@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aks.status.creation) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kumar-sahoo-nit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdiTheNalanda) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Iternal_Fact_Stories) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@adityakumars.in) 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
